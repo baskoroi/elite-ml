@@ -1,3 +1,7 @@
+# hidden files
+.*
+
+# archives and temp files
 *.zip
 *tmp
 *.tmp
