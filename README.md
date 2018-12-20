@@ -2,4 +2,8 @@
 
 Learning files - By: [Baskoro Indrayana](baskoroindrayana@gmail.com)
 
-These are the study files I will accummulate, through learning with Elite Data Science.
+## Folder structure
+
+- `code/`: not often used, except for temporary / ad-hoc coding
+- `resources/`: PDFs used to support the studying process
+- `workbooks/`: Jupyter notebooks for explanation and exercises
